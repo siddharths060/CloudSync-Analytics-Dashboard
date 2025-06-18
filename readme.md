@@ -65,7 +65,6 @@ This dataset includes records of yellow and green taxi trips with fields such as
 
 ## 📈 Dashboard Preview
 
-> 📷 *Replace this with a screenshot of your Looker dashboard*
 
 ![Dashboard](./dash-board/dash-board-1.jpg "Dashboard Image")
 
